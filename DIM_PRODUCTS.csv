@@ -1,0 +1,550 @@
+DW Product,product_id,product_category_name,product_weight_g,Product_status_to_Delete,Weight_Category
+1,fffe9eeff12fcbd74a2f2b007dde0c58,Art,3900,in stock,Medium
+2,fffdb2d0ec8d6a61f0a0a0db3f25b441,Sports,150,in stock,Light
+3,fff9553ac224cec9d15d49f5a263411f,Toys,150,in stock,Light
+4,fff81cc3158d2725c0655ab9ba0f712c,Accessories,58,in stock,Light
+5,fff6177642830a9a94a0f2cba5e476d1,Shoes,1400,in stock,Medium
+6,fff515ea94dbf35d54d256b3e39f0fea,Furniture,450,in stock,Light
+7,fff28f91211774864a1000f918ed00cc,Art,200,in stock,Light
+8,fff1059cd247279f3726b7696c66e44e,Musical Instruments,421,in stock,Light
+9,fff0a542c3c62682f23305214eaeaa24,Toys,300,in stock,Light
+10,ffef256879dbadcab7e77950f4f4a195,Kitchen Products,450,in stock,Light
+11,ffedbd68fa6f44e788ff6c2db8094715,Bathroom,450,in stock,Light
+12,ffeb228c521d5464d1f71444da96c446,Accessories,200,in stock,Light
+13,ffe9468f4d890db80b7231e86931ff37,Accessories,17000,in stock,Heavy
+14,ffe8083298f95571b4a66bfbc1c05524,Art,1350,in stock,Medium
+15,ffe75578163d45caa52bca3529cb511e,Pets,350,in stock,Light
+16,ffe0fc4e02c3559643ac063fa5cf9d07,Pets,1525,in stock,Medium
+17,ffe013e1b4603e3b0b02fbb159d5b400,Art,6600,in stock,Heavy
+18,ffdde3d63e889c9a9f9ec30d82a4c815,Clothing,21600,out of stock,Heavy
+19,ffd9ac56db9194a413298faaa03cd176,Jewelry,600,low stock,Light
+20,ffd7628b0b0b98ebc549e8e4c54a59af,Accessories,717,in stock,Light
+21,ffd63ee42a5c8cc5a15a1c8e2aa50011,Gadgets,5200,in stock,Heavy
+22,ffd60d515c690a976c497e75cd2336f4,Books,250,in stock,Light
+23,ffd4bf4306745865e5692f69bd237893,Musical Instruments,150,out of stock,Light
+24,ffd34459c21034d1da6df9800de0d7a3,Art,150,in stock,Light
+25,ffd259a48b9b073c942884d0f3659566,Gadgets,400,in stock,Light
+26,ffd246249e3225c13f40b5b91dcaa65a,Sports,850,out of stock,Light
+27,ffd2365fb8224dc66883df9351d65deb,Gadgets,333,in stock,Light
+28,ffcfaba393e8ef71937c6e8421bc2868,Toys,19800,in stock,Heavy
+29,ffce5ed9e0bcc2e46796b988cdac733b,Accessories,600,in stock,Light
+30,ffccf0ce5eff1a158891296990107d08,Musical Instruments,950,in stock,Light
+31,ffc9d90bae2127e6a6ce6d6654267ebd,Pets,300,in stock,Light
+32,ffc9caf33e2d1e9f44e3e06da19085f7,Decor,2134,in stock,Medium
+33,ffc88104d219c1b767d566fd93653dd2,Books,675,in stock,Light
+34,ffc48c754b5bd736e2887e279d1dec72,Jewelry,11050,in stock,Heavy
+35,ffc0b406806006602c5853b00ab5f7fd,Bathroom,4450,in stock,Medium
+36,ffbfe460c6f140cdbe4f494be6dd43be,Gadgets,2350,in stock,Medium
+37,ffbfa9e143fda4420454d0f4e88a3cd5,Art,793,in stock,Light
+38,ffbe3df3856b1fef3fee8f1264105a89,Gadgets,250,low stock,Light
+39,ffbe169d395060d7fb975c990581a329,Home Design,700,out of stock,Light
+40,ffbceea72c6f921df4bb547275b9ca14,Accessories,350,in stock,Light
+41,ffbc83054b3741a8d67fc59d9cf9d42d,Jewelry,800,out of stock,Light
+42,ffbbf6b9097237a1122f17e7341a3fb2,Home Design,250,in stock,Light
+43,ffbb3c00e9687ad738ace3977e821da5,Gadgets,2350,in stock,Medium
+44,ffb97eb64c6fe1baada2410288c04457,Toys,390,in stock,Light
+45,ffb64e34a37740dafb6c88f1abd1fa61,Gadgets,700,in stock,Light
+46,ffb530bd30bcc1bd903e4da723faa5e6,Toys,1800,in stock,Medium
+47,ffb2e8c1ddc7c3e590d2bc4c91de53e1,Appliances,600,in stock,Light
+48,ffb2a783fe9381154e13bb3457651996,Shoes,5300,in stock,Heavy
+49,ffaf0af7eebb57c7f262b51ebb05dfd6,Art,1255,low stock,Medium
+50,ffae6024df16802ba75f761d9aa24367,Decor,150,in stock,Light
+51,ffade53cc6541c89321fff351e04751a,Furniture,1050,in stock,Medium
+52,ffadc6f8aa93aadfea73b1348a058358,Gadgets,1000,in stock,Light
+53,ffad988078a64af484dfbc5f494d12ac,Toys,150,in stock,Light
+54,ffaaddefb271481c66d4bd79844ecdae,Gadgets,200,out of stock,Light
+55,ffa8916ae85546ee99d1965b28e447ae,Books,27800,in stock,Heavy
+56,ffa7e0cbe11656d11a117b534bb1db27,Accessories,100,out of stock,Light
+57,ffa5d8273d8e03363bb4014de3f89dce,Clothing,1150,in stock,Medium
+58,ffa4ff381e25872b5bf85353ff7ab0c9,Furniture,30000,in stock,Heavy
+59,ffa4027b0effa4df0d5f5a9ce2788b6d,Gadgets,2100,in stock,Medium
+60,ffa255211c5d16ec8ebadcb5729c96ce,Appliances,100,in stock,Light
+61,ffa1ce7f2a287ca5e369673bd77d43de,Books,1000,in stock,Light
+62,ffa0824a2b01e5ce24d6883413b72f14,Pets,500,in stock,Light
+63,ff9fa77f938462abd16b53c0d934099f,Accessories,300,in stock,Light
+64,ff9dfd2acec3dff6be51b4d28bed8768,Jewelry,500,in stock,Light
+65,ff9a23dcd6b233811bd2a7be174a8e4c,Makeup,150,in stock,Light
+66,ff96895c6b1d31f34b2d82f86670fa85,Books,2450,in stock,Medium
+67,ff95ac47246ef13e48712ea1ff8df0d9,Decor,5300,in stock,Heavy
+68,ff92ca9bb0b3f4ec00a9b76c9f68cb3a,Decor,1925,out of stock,Medium
+69,ff9240e1887b9c59757142080b2c8d79,Clothing,450,in stock,Light
+70,ff92322b0148cca0038e11e0d34f6f62,Toys,7100,in stock,Heavy
+71,ff922797a6771cab4e0c51d482285ec3,Gadgets,1725,low stock,Medium
+72,ff90ba6020fbb7d7f56613e213e9dc57,Decor,3400,in stock,Medium
+73,ff907ae86deaa05b65cfb3b14166e7c7,Clothing,1400,in stock,Medium
+74,ff9032482857269e8683f0c2f8ba4709,Gadgets,50,in stock,Light
+75,ff8ff756fe1137ed22300ccd2190703a,Musical Instruments,200,in stock,Light
+76,ff8f6ec909e03ac8d9f6d82a10031c0c,Decor,1600,in stock,Medium
+77,ff8ee90ee3170de57403d2d5af1e2c2e,Books,50,in stock,Light
+78,ff8ece719f2d16180dbf891250635093,Kitchen Products,1867,in stock,Medium
+79,ff8e9a180c931adab01ed6b3c44edc25,Jewelry,4200,in stock,Medium
+80,ff8bd09f659b88af06fdfea61a8b7b45,Furniture,100,in stock,Light
+81,ff8bb42702f38636b348fd7e2332ce2f,Gadgets,100,in stock,Light
+82,ff8b5a5f01bf21afd7d49b4688ca6d1f,Clothing,300,low stock,Light
+83,ff85ff517698c3fe8b200afddda7fb3a,Toys,1200,out of stock,Medium
+84,ff81cd23251a357a120054397a01849f,Appliances,700,in stock,Light
+85,ff817f0901191fbe02933928daa95e6e,Furniture,725,in stock,Light
+86,ff80f0538290775336ee74b4997a855c,Makeup,333,low stock,Light
+87,ff7fccf8513f360157f0660fe51d1d88,Home Design,1500,in stock,Medium
+88,ff7cbf1b6efcbdb616eaf4e90ca7a467,Accessories,100,in stock,Light
+89,ff7c7524d5f9a8386ab27088ec03c1fb,Gadgets,1000,in stock,Light
+90,ff7b4560eaf93a8848cd5fde641f39c6,Art,250,in stock,Light
+91,ff7ac89ca5b77d0fb5f8a65262d73956,Jewelry,1000,out of stock,Light
+92,ff7aa48b8bc68495866b40c4010d58c9,Shoes,1800,in stock,Medium
+93,ff7a70b3356d433014b7d6957ed196cb,Appliances,16400,low stock,Heavy
+94,ff7885ae23429394b64526e957ec809d,Books,11825,in stock,Heavy
+95,ff7824d83aca56224fa3e3b524748ec5,Kitchen Products,600,in stock,Light
+96,ff7263dfb3cfff5421ada48c3899c313,Makeup,1100,in stock,Medium
+97,ff724c4888bdcfb01e7028066db3bb98,Shoes,500,in stock,Light
+98,ff6caf9340512b8bf6d2a2a6df032cfa,Accessories,200,in stock,Light
+99,ff6a816ae8a01312fe42dc48c7c8ead1,Furniture,417,in stock,Light
+100,ff678388090fbae683a9a271480fb7f3,Clothing,300,in stock,Light
+101,ff62ab4c255754dd5cfbd1822cd97b40,Bathroom,11850,in stock,Heavy
+102,ff62353dc0792586fbf5eefd8dc7d4f2,Appliances,100,in stock,Light
+103,ff6154cee42bf2718cca4865f0620e04,Books,600,in stock,Light
+104,ff60ce007cb42cd9786f49d262a97672,Appliances,200,in stock,Light
+105,ff5f8606556b625613f069a5a9a48966,Art,2300,in stock,Medium
+106,ff5ecb2f7628793844e861076ab8e467,Sports,450,in stock,Light
+107,ff5d87897ed26d564711df324b98ebee,Furniture,350,in stock,Light
+108,ff5d7f21d255435967dfbe72b5dcdb57,Makeup,167,in stock,Light
+109,ff5bdcc63751127e726cb69cff0cb5de,Musical Instruments,2150,in stock,Medium
+110,ff55834c0b3272853dfe62340f2bb91b,Jewelry,250,in stock,Light
+111,ff50a7795bf14586aeb06610fae49095,Furniture,2100,in stock,Medium
+112,ff4f5b008c32f80c3f952b2b56a28e04,Decor,1600,in stock,Medium
+113,ff4f41437ea37fc126d110853404b625,Art,100,in stock,Light
+114,ff4c53f24709771879d01232ae305cac,Pets,5750,in stock,Heavy
+115,ff4c1a248a5110d784de5c67a9106d67,Musical Instruments,1150,in stock,Medium
+116,ff46e29063ede0062c2cfb22f05b54ef,Decor,200,in stock,Light
+117,ff469d5a015226354ab92a85c8c46537,Jewelry,933,in stock,Light
+118,ff4580bbb95dbae914ec0a9b76b0a5c4,Clothing,150,low stock,Light
+119,ff415a8a6bfbaf8244f4ee0c7c30d905,Decor,1500,in stock,Medium
+120,ff40459ce8252a72f01615a9aca8b877,Clothing,1300,in stock,Medium
+121,ff3fd6df22de9102d81c4a963a694629,Bathroom,200,in stock,Light
+122,ff3fb423134042fbbca486b9790b4521,Appliances,83,in stock,Light
+123,ff3ec972ebd16eb98d55e8ea2fa255ee,Decor,2488,in stock,Medium
+124,ff3ac832869618856979ed4f8d770d4d,Art,800,in stock,Light
+125,ff39fa912acf02a733de1b0cf84e779e,Sports,5850,in stock,Heavy
+126,ff37b24bee4345bc69d11fae0e6cd3da,Clothing,20450,in stock,Heavy
+127,ff351cfcb7d6612f887fb0a230dfaf34,Toys,300,in stock,Light
+128,ff34f05b00e8638201e04d2d0651c663,Accessories,2350,in stock,Medium
+129,ff3377c7e76bb050877c8a7c28d7525f,Home Design,2000,in stock,Medium
+130,ff2c1ec09b1bb340e84f0d6b21cc7dbb,Decor,500,out of stock,Light
+131,ff2b293ae4b3c204113bdec91e27a584,Gadgets,150,low stock,Light
+132,ff29d8cb1cd0cd5ea37b80dac9939e1c,Books,200,in stock,Light
+133,ff285e6c96040323d3763dd184924018,Appliances,150,in stock,Light
+134,ff28477a5bcb2fc34bb86a6c2eea1566,Home Design,1250,out of stock,Medium
+135,ff274e9a1f40c1c9bc8a2069af3a0084,Shoes,1875,in stock,Medium
+136,ff26b56ca9aba312af54ea3f368af943,Musical Instruments,500,in stock,Light
+137,ff26009ac6b838dc6cffa2d589cdbefb,Sports,3500,in stock,Medium
+138,ff25a6dd5b0db59bf1f8977c272270d0,Bathroom,750,in stock,Light
+139,ff1f1de0f05e0ec5b2d721e2fb425b0c,Appliances,2100,in stock,Medium
+140,ff1b8d53a1563c1f27a3d99e740ceaa9,Makeup,800,in stock,Light
+141,ff185e3474ddf11f1c87316de80f24b7,Art,200,in stock,Light
+142,ff14b42e6c031d90825f40f2b1089185,Sports,3474,in stock,Medium
+143,ff149b3dcc3813d4644fa2610307d071,Art,200,in stock,Light
+144,ff10c736ab3996711b7bf8eebaa6f474,Accessories,150,in stock,Light
+145,ff0c8d7cbe636d47cf905e12dfee9927,Art,500,out of stock,Light
+146,ff0ba1ffc67724ddc6db331bd417ef67,Home Design,517,in stock,Light
+147,ff09b38ea3889c433325e313807936ea,Home Design,1600,in stock,Medium
+148,ff0303657c756073d669ed516070eb3e,Pets,150,in stock,Light
+149,ff0253002f8f3b78103899fc6f6ba120,Jewelry,50,in stock,Light
+150,ff01ba3d3676dd02937fd007e3f4e992,Jewelry,200,out of stock,Light
+151,fef80a5fb121b63bedd4096ff28f6aaa,Art,150,in stock,Light
+152,fef7934cc233ee5b1dc13094d98a1465,Makeup,5200,in stock,Heavy
+153,fef63ef09494166bda2812ff585be979,Art,375,out of stock,Light
+154,fef6029430dcac1403570d19150408ea,Sports,852,in stock,Light
+155,fef4145d5309c82cd34bdfe608dd323c,Sports,250,in stock,Light
+156,fef20920e4ff569015ea64270cd3c741,Gadgets,1200,low stock,Medium
+157,fef11bcb9bda869da356243b240c07b7,Gadgets,300,in stock,Light
+158,fef0dd8c53552d0f784b7cc5375a3ffe,Jewelry,600,low stock,Light
+159,fef0296e6442db59700c92c692c90e90,Clothing,150,in stock,Light
+160,feeed1b9f26cce6eb3cb81af65eddd9e,Appliances,700,in stock,Light
+161,feee7d52babf4002f100a79183eb7989,Home Design,430,in stock,Light
+162,feedec0f9090d3736d54758da8a1d05b,Art,1950,out of stock,Medium
+163,fee4f51fea27d262dd116b53ddf31ce6,Bathroom,500,in stock,Light
+164,fee2419d6d68dce0a48153a8179772ea,Musical Instruments,350,in stock,Light
+165,fee0732d760a52d0047533f53a110037,Home Design,3500,in stock,Medium
+166,feddfbd2585f9007f7ed77b1d1ae8d80,Pets,700,in stock,Light
+167,fedccbd5e370e8ddb7aae6fb4cb70347,Accessories,1200,in stock,Medium
+168,fedbf77eb491dfc9ac276b9ea9ee10c6,Art,350,in stock,Light
+169,fedaaeb6d54cd9772c003ec97ce92ff7,Accessories,13000,in stock,Heavy
+170,fed8c9425c38a8433368e5fa59592a89,Bathroom,950,out of stock,Light
+171,fed7ed9a2c9239558d696bfb40fc96a9,Appliances,125,in stock,Light
+172,fed5c40c27e1c88560a9e92d82ee0825,Decor,150,in stock,Light
+173,fed2dca7ba471a3942a070e00ae17381,Kitchen Products,300,in stock,Light
+174,fecf6223a3494f35362f670e571d2a04,Toys,800,in stock,Light
+175,fec95e3df8533d6872300b23b9a5a943,Home Design,6300,out of stock,Heavy
+176,fec8c282124bc6f504cbc6e9ec38450a,Kitchen Products,22100,in stock,Heavy
+177,fec85e6c0eab9b4bcddf9ccd917c80bc,Toys,500,in stock,Light
+178,fec76cdd2170ca10b02e2f0d81ff4123,Accessories,200,in stock,Light
+179,fec565c4e3ad965c73fb1a21bb809257,Bathroom,1400,in stock,Medium
+180,fec3b45dc09b257690a09a742870b149,Clothing,1650,in stock,Medium
+181,fec2d939a171210847d8f2d102f0dba5,Shoes,8950,in stock,Heavy
+182,fec094ad5af771b21cf38c6c9e946f19,Kitchen Products,5700,in stock,Heavy
+183,febdb23f0a5a9f93c101e489d2bfd352,Toys,150,in stock,Light
+184,febd6c8a7d546c876948428261e500e0,Decor,300,in stock,Light
+185,feba83b90adfde26a6a944dee721e573,Books,200,low stock,Light
+186,feb94d995efca232513a7baffff772b8,Sports,400,low stock,Light
+187,feb593f17c2f51af2932dbba3e99f1cb,Pets,50,in stock,Light
+188,feb4ade62e32b8d74c6f69f635057964,Art,12325,low stock,Heavy
+189,feb18700015c20ef4ca5098a6288f6f7,Toys,10850,in stock,Heavy
+190,feae5109d8485def8ad124f0653a59a7,Shoes,3100,in stock,Medium
+191,fea7f0c147905a41ca324c0e3234a4c7,Gadgets,225,out of stock,Light
+192,fea526cd827b9e8ef83d3e3beb1f3db0,Sports,1525,in stock,Medium
+193,fea2f92877b647dc07ea8e3f4aa2cf3f,Toys,7400,in stock,Heavy
+194,fe9f815c71f1651837c0f6770e533db4,Jewelry,650,in stock,Light
+195,fe9dfbe7f974621789683b7b78be2a16,Makeup,5300,in stock,Heavy
+196,fe9c4b2cf9c3adbaf3644880fb72254d,Home Design,14000,in stock,Heavy
+197,fe95eb948375116da759c8ef60295001,Kitchen Products,800,in stock,Light
+198,fe92a2b984222723a72b0a3790742623,Home Design,200,in stock,Light
+199,fe9184887637170f6da65623475d6a66,Musical Instruments,600,low stock,Light
+200,fe8f341b1e20d2b1135245c3400a6e53,Art,3550,in stock,Medium
+201,fe8bd0b912e59890950cae5e3bf908c9,Appliances,1750,in stock,Medium
+202,fe8b0ea4a95d3a6488d8e23b41720e46,Kitchen Products,450,in stock,Light
+203,fe85b65a6d0ed7524aaa2e0fac0e23cb,Kitchen Products,300,in stock,Light
+204,fe854c3521ccdb837e2daf3b653fb929,Toys,1168,in stock,Medium
+205,fe84c88069760acf0d69497293c74f25,Accessories,250,in stock,Light
+206,fe849745fcdc6e1d6864539a2b13197f,Pets,300,in stock,Light
+207,fe83af233315b04d9093c7edbcf789dd,Appliances,1700,in stock,Medium
+208,fe7f10e5c9d36a294333b0c35ccc24ad,Accessories,1150,out of stock,Medium
+209,fe7e33eaa09b5a4a3d3aa477280db875,Bathroom,150,in stock,Light
+210,fe7df6d2f5226a4be89e7f2884c88e8c,Accessories,3550,in stock,Medium
+211,fe7d52482b17e6b3466f4b8f3ce51a9e,Sports,250,in stock,Light
+212,fe7ad3e3828f32193dfbe6359f733a8f,Furniture,823,low stock,Light
+213,fe7976532777922f0d60261e75f7ad36,Shoes,150,low stock,Light
+214,fe75529a267b76ac6e96f0c322a899a4,Accessories,304,in stock,Light
+215,fe7185e8ca6be33b48072c4ba1b6056d,Accessories,750,low stock,Light
+216,fe70b3d3e1523d468ece722d2de06de9,Accessories,200,in stock,Light
+217,fe705ffbaa3804c5562b8b1046157a6c,Kitchen Products,350,in stock,Light
+218,fe6f03cedd96bcbc5c8726c5963fd35c,Shoes,1250,in stock,Medium
+219,fe6e5de30335f28d5c71820661ce4019,Pets,200,in stock,Light
+220,fe6a9515d655fa7936b8a7c841039f34,Pets,5650,in stock,Heavy
+221,fe673b1b9f582dfe9077e7ecfb03446a,Shoes,800,in stock,Light
+222,fe6614ba400caca2d8d310902d5ecdd5,Kitchen Products,1500,in stock,Medium
+223,fe6550863a0e6a0167e2d2859f8f3b9e,Shoes,650,in stock,Light
+224,fe644da1135fedca6aa0bf794fab71be,Kitchen Products,3100,in stock,Medium
+225,fe61253e50ad6ee9f1d180da22ce5eef,Shoes,1050,in stock,Medium
+226,fe59a1e006df3ac42bf0ceb876d70969,Appliances,3407,in stock,Medium
+227,fe5915b903037937488e868f2dde0ff3,Decor,30000,in stock,Heavy
+228,fe5827d110a9ba59d4ab407e86ccd6eb,Art,150,low stock,Light
+229,fe55c83c8471a2fca643b9291c1f105e,Musical Instruments,600,in stock,Light
+230,fe555e0880543633edc71df3737e49eb,Shoes,1650,in stock,Medium
+231,fe5554d1ac1a1d70c97854dca21facb0,Pets,850,in stock,Light
+232,fe547f9a78a612634a416e6be45fe693,Jewelry,3718,in stock,Medium
+233,fe4dece0c663ba4f1f9f2d04d3b93a97,Books,200,in stock,Light
+234,fe4d09201362b0d4332259c78af0f761,Kitchen Products,800,in stock,Light
+235,fe4cd3c795135b4f84e2da5a82ac84a8,Art,200,in stock,Light
+236,fe4afcfae208147e0189eaa4c3f5fb8d,Toys,1750,in stock,Medium
+237,fe40f7377a50aba380fb2fca57cf730c,Books,1650,in stock,Medium
+238,fe4098f3eb43b02ba19c15d81bde2b2d,Books,1500,in stock,Medium
+239,fe406983ad8b9e20a5b18801f39ece27,Furniture,3213,in stock,Medium
+240,fe3dd7b13c2aaf66e4fa4132f5c71da3,Books,750,in stock,Light
+241,fe3d99587f58ad918a2241f5c7dfa274,Accessories,3700,in stock,Medium
+242,fe34a95208c5b3b69d91552aecf1bd71,Appliances,850,in stock,Light
+243,fe34503c6bccf918db601aaafd4a975a,Gadgets,3000,out of stock,Medium
+244,fe31b2791161c24e921f90788d443e1c,Shoes,1100,low stock,Medium
+245,fe2f0ff75805728378c6a8fdc5be7724,Pets,100,in stock,Light
+246,fe2f068d3b10f48ac104cd8c8dbcdfe8,Accessories,450,in stock,Light
+247,fe2eb4afacc06314372f75be9c2859ff,Kitchen Products,150,out of stock,Light
+248,fe28979be307dfef18cb028e5bd4e8e6,Musical Instruments,600,in stock,Light
+249,fe286f0c486e06abe661c94f8e1554c5,Shoes,2350,in stock,Medium
+250,fe281ff6eb3a52425dca9c76f4b505c0,Decor,2150,low stock,Medium
+251,fe25db018a92c3f4ff5cd5d2e0bb7290,Makeup,600,in stock,Light
+252,fe220782f267bca8c056308cba6c8807,Jewelry,1200,in stock,Medium
+253,fe1ee1f8bfbb79fe10856189a0c35229,Sports,1400,low stock,Medium
+254,fe1d68f123061329a6d3505c2b905566,Pets,150,in stock,Light
+255,fe1cef1f560c521e9ed426383ed58ac2,Accessories,467,in stock,Light
+256,fe1ba35c47a4b599f34ce8ad2aa2c42b,Makeup,200,in stock,Light
+257,fe1b6867dcd2f3336f259476b77f5edd,Home Design,1600,in stock,Medium
+258,fe1341006261b53f5f8415fb27772e66,Pets,250,in stock,Light
+259,fe117e311878a71023889b7bb6a8f2c2,Kitchen Products,300,in stock,Light
+260,fe0caf78250528cec991a2462326f574,Decor,1900,in stock,Medium
+261,fe0c30fb2df4e35bc7319b277ddbdaa5,Sports,850,in stock,Light
+262,fe0be6df56c891975ff729be49fd2e17,Decor,318,in stock,Light
+263,fe0a8502d28faaddaa89ebedadc543ae,Clothing,100,in stock,Light
+264,fe09eb5f7bfcb79d05df7c4e83ec204e,Jewelry,200,in stock,Light
+265,fe08e28295ab13626e239b59612918f2,Musical Instruments,9633,in stock,Heavy
+266,fe077ec80df6b4ee60bb4498d5ab1962,Makeup,200,out of stock,Light
+267,fe06d596708c590bf178cdb82aa7d48d,Books,850,in stock,Light
+268,fe05ad488982d6de6373f13486d92d99,Art,750,in stock,Light
+269,fe038e16fec390e96e4d557ef433e280,Furniture,100,out of stock,Light
+270,fe02ad514379012c6a31b62741a3a9d4,Kitchen Products,600,in stock,Light
+271,fe01b643060a6446e59f58e3021e66b3,Art,1250,in stock,Medium
+272,fdff6fbfaeefd11afe77be6f416e9c4e,Pets,500,in stock,Light
+273,fdfe4f462b8972c3455163e3fa7653c6,Decor,7000,in stock,Heavy
+274,fdfb90feb49d2b41b8283a8ec6e95590,Home Design,11600,out of stock,Heavy
+275,fdf9ec5852bb18d630e683e3c796972d,Furniture,1434,in stock,Medium
+276,fdf648fe44c2e24e9857c8d4ad5a7028,Gadgets,700,low stock,Light
+277,fdf37ff6a4ff39ac973343a01c1f91ef,Kitchen Products,300,in stock,Light
+278,fdeb34a9f03fea7c3937dd62d1d0287e,Accessories,1100,out of stock,Medium
+279,fde90f06296b26995fd0de6f16610d70,Musical Instruments,1650,in stock,Medium
+280,fde84a599b4b96ce7eef9109caece04b,Home Design,100,in stock,Light
+281,fde7de6bf5508a0001da45dbe6c80b22,Art,900,in stock,Light
+282,fde71f25e699ca0a2a83a6c3a249b816,Art,600,in stock,Light
+283,fde4e97b75bd817d8c4aef8de39ed4d9,Gadgets,150,in stock,Light
+284,fde0eff565370716f3400d2bdf4e148a,Toys,6350,in stock,Heavy
+285,fddede0d4854d07dbb9bcf3b090697f3,Appliances,500,in stock,Light
+286,fddec93a56600e40327c7a9e66c98feb,Appliances,1150,in stock,Medium
+287,fdde5bfe43004cc06f12152870b951f4,Clothing,475,in stock,Light
+288,fddc61a36e83f12b665d068c07411aa7,Clothing,975,in stock,Light
+289,fdd84aefb08c8f8225e0b8c97429d53b,Furniture,123,in stock,Light
+290,fdd7bd74464daed1af6c0b21d9c654d4,Pets,1800,in stock,Medium
+291,fdd6cd13962a20732851bc7cefd37549,Art,350,out of stock,Light
+292,fdd4f5e099d232bbd0d1fca8eab34172,Accessories,200,in stock,Light
+293,fdd209e106931a894807cb3a076e8752,Sports,2100,in stock,Medium
+294,fdd06e4d9669d1f11992a3973a0fdd7b,Toys,1400,in stock,Medium
+295,fdcf45aa23bb8312ecc0027d6e1ef1c4,Makeup,250,in stock,Light
+296,fdcd8c17805ad801a924cf11272a2834,Sports,2050,in stock,Medium
+297,fdcd405125af2d9b2b7b6fa42950fd92,Makeup,450,in stock,Light
+298,fdc86b2fc0a185e4044ef057bb75a977,Sports,175,in stock,Light
+299,fdc7f0715c1b1ee11b31922f0b23c0b4,Shoes,500,in stock,Light
+300,fdc7b4c1ee3b0ba0c649a3147d039983,Kitchen Products,450,in stock,Light
+301,fdc52cfa6830ea1f04bc31c0939b2357,Kitchen Products,300,in stock,Light
+302,fdc3af4045c7316cadde9fda3c335932,Jewelry,300,in stock,Light
+303,fdc1340be043a0e6807741d687fc1cd4,Toys,200,in stock,Light
+304,fdc0fe1b7ae4cdf11202504eb045b0b9,Home Design,1188,in stock,Medium
+305,fdbfd4cec6db6e89f22d9aa2c4839eed,Sports,20050,in stock,Heavy
+306,fdbf9f9491572857107621c9e0c5d59c,Clothing,305,in stock,Light
+307,fdbd77fe1773263558126c16e0b4b67c,Gadgets,1500,out of stock,Medium
+308,fdbcb10ffeacc2c174245c6d2c4c05ce,Makeup,3400,in stock,Medium
+309,fdba6f37e0258dbca54eb0ed8b293ae0,Accessories,600,in stock,Light
+310,fdb86e192fdd20037175daab38af9656,Decor,800,in stock,Light
+311,fdb7db3bff9c924c80ae39b6cd2e82a7,Clothing,10050,in stock,Heavy
+312,fdb33d3471c9183b30cea8b7b34e4880,Decor,570,in stock,Light
+313,fdb30642264bf639de6968a1b8d72c63,Furniture,600,in stock,Light
+314,fdb0400657b935e026dc0521ba81c3d2,Furniture,150,in stock,Light
+315,fdaed9f1261debbac5fc4459dc4fad1c,Art,500,in stock,Light
+316,fdad129d8e902058f98862f23dcf6978,Home Design,250,in stock,Light
+317,fdad06d08341796c0a7975fcaaba7a2e,Sports,650,low stock,Light
+318,fdac82e439dafa5f87a9547581532380,Accessories,1000,in stock,Light
+319,fdab4c1b0c356b42df5846952f5b47af,Appliances,225,in stock,Light
+320,fda95fe26bc353f8a0cc05c8d109d453,Shoes,125,in stock,Light
+321,fda8e9e4aa94f525fc48f6777ff040ea,Jewelry,13800,in stock,Heavy
+322,fda6e6a7a94613adeb9bc945a6dbcc10,Decor,4100,in stock,Medium
+323,fda6a1e500285956c972ec2fe10f4923,Furniture,1850,out of stock,Medium
+324,fda36cbf21cf89adaae228f08c1e4121,Toys,14250,in stock,Heavy
+325,fda2e10316a83bcf6ffa52fc891642f2,Art,1000,in stock,Light
+326,fda130b26c5b4ddabb0cec19a06abff7,Toys,3700,in stock,Medium
+327,fd9f8eff0fa910129e366594485e00dd,Toys,410,in stock,Light
+328,fd9becacfcf0cebb9756687af69c716a,Furniture,400,in stock,Light
+329,fd9bc1610a48cabefb0ef59453f7ebeb,Appliances,11400,in stock,Heavy
+330,fd979b0722a18a4fb9dfe333eefeead2,Gadgets,1150,out of stock,Medium
+331,fd97587c26811f6072bacce1484fbf65,Toys,50,in stock,Light
+332,fd939dd54384f5681c327919e8f6a1b8,Art,500,in stock,Light
+333,fd92a7f41be98d0580faa2e6683b4ca0,Books,4403,in stock,Medium
+334,fd925ce72399e23cbc5d75e224fc2b57,Sports,100,in stock,Light
+335,fd9222f5293048868b832e5179fa3ec5,Pets,2950,low stock,Medium
+336,fd91e23b4465803725f329b39afe018a,Musical Instruments,400,in stock,Light
+337,fd8a63e7365ea8b19f4ba50e07a89a06,Home Design,200,in stock,Light
+338,fd8a5b9a8a79d7ba0739d69be5dc5aa1,Home Design,850,in stock,Light
+339,fd87595e4b416c50ca77899592f2bef3,Books,1117,in stock,Medium
+340,fd85f34d70edf41fbea6a3269d183e00,Appliances,163,in stock,Light
+341,fd8427a5b8ddccc638a8861eed9aef64,Decor,1350,in stock,Medium
+342,fd7fd78fd3cbc1b0a6370a7909c0a629,Home Design,400,in stock,Light
+343,fd7d446e2582c5bbc8be63f9179e98ac,Bathroom,150,low stock,Light
+344,fd7d2e006bf144655148da8077bd8d4f,Gadgets,200,low stock,Light
+345,fd78812672eb8dd819fad93951bdbe64,Kitchen Products,187,in stock,Light
+346,fd76f22bf3648e0dd4295e593def7664,Gadgets,1000,in stock,Light
+347,fd76a5a3907232c96615967475f8689f,Shoes,26400,in stock,Heavy
+348,fd6d9e3d204e6e693f4edd48ac33487e,Appliances,3000,in stock,Medium
+349,fd6c1e7562ca075a0c3e11cdc1158d82,Home Design,8100,in stock,Heavy
+350,fd68051e3deccde23af3d77152129c5a,Furniture,2800,in stock,Medium
+351,fd60771c56d987cda1dc0169f4452e65,Musical Instruments,100,in stock,Light
+352,fd5dd5fe13fcd7d1d4d6322e35c559f0,Home Design,4750,in stock,Medium
+353,fd5c5a67cd369732c2ac20dbd574d1d4,Gadgets,450,in stock,Light
+354,fd55ab8af788f6bba621cd37a8701889,Sports,3900,low stock,Medium
+355,fd538a6af86a4b1b8546ec67d04a6323,Gadgets,7700,in stock,Heavy
+356,fd52a24b7fa473a6c7a62a5ee7579def,Toys,700,in stock,Light
+357,fd5165e9ee553f6e1bc24e5103ceb50b,Decor,1700,in stock,Medium
+358,fd4b4443bc919df49bbcc062742b8f06,Pets,1523,in stock,Medium
+359,fd4a96848f84ddaabcdc5bdbf831a194,Accessories,350,in stock,Light
+360,fd471a043ee8b8dd27f4086495e0724c,Art,3000,low stock,Medium
+361,fd45ce2fbdcaa362dfb5d1a21e87a711,Bathroom,500,in stock,Light
+362,fd445af3bbca370905733a0bf87b89bd,Pets,600,in stock,Light
+363,fd440fd792fd8a4b681f1eb258c25445,Furniture,1200,out of stock,Medium
+364,fd4269ef0b64a4ef82eb098107665158,Appliances,1666,in stock,Medium
+365,fd424396761d9e1609c5516b7d8ce17b,Home Design,4825,in stock,Medium
+366,fd40f3ef9c7fb9c550619a88af47a5de,Jewelry,22550,in stock,Heavy
+367,fd3ceef50842d4449ec638256dcf2147,Jewelry,3313,in stock,Medium
+368,fd3a4121e687a6b84e7af92606d5d718,Books,150,in stock,Light
+369,fd37eb547d2c63b60bcefd68951ee54d,Appliances,2700,in stock,Medium
+370,fd3449bd706d46a7196d18bbd38b32f4,Art,640,in stock,Light
+371,fd33cf682028dd12dea92f2ec002c6e7,Jewelry,675,in stock,Light
+372,fd29afd700b83ec4c34fe4a5b68fc23d,Furniture,717,in stock,Light
+373,fd28b464cf1660a67606f7b48c8c38c6,Kitchen Products,700,in stock,Light
+374,fd25ab760bfbba13c198fa3b4f1a0cd3,Furniture,1300,in stock,Medium
+375,fd220f6fd5a3f13ef9db07428f9c935d,Art,280,in stock,Light
+376,fd2168a1a9661512d53cb23d6d23ee02,Kitchen Products,650,low stock,Light
+377,fd206f3c185fd47c22d6de48f25133fe,Bathroom,500,in stock,Light
+378,fd1eb7fd67e76cf3283618735a57cbcd,Makeup,1600,in stock,Medium
+379,fd1e94b07608d8b4a74b0c81dd4fe10e,Sports,1700,in stock,Medium
+380,fd1d81ca3e323dfc0b3f48e0225e4bbf,Home Design,6500,in stock,Heavy
+381,fd1b303c073ff6cdf78c7ad4d25b5409,Appliances,250,in stock,Light
+382,fd1abebad3478dd37080b399656dbb7d,Accessories,300,in stock,Light
+383,fd1976772549ed5b4aed965293122ac8,Sports,458,in stock,Light
+384,fd18f2f8c3c6818f28fee7202d811830,Appliances,125,out of stock,Light
+385,fd16d6944e49931ace2c99037c4d8868,Accessories,750,in stock,Light
+386,fd15dec337d57a332d25ec667eb5e859,Musical Instruments,725,in stock,Light
+387,fd1446e03cb63518fdc2d2e91f6208b2,Furniture,250,in stock,Light
+388,fd12e3863702114b037de431a73ed139,Makeup,200,in stock,Light
+389,fd1061ebebbb9892c59897096066dec5,Accessories,1400,in stock,Medium
+390,fd0f7402731790468090d7895cf61c0f,Bathroom,500,in stock,Light
+391,fd0e6b3e2ab6191b59d373995a5b747a,Home Design,200,in stock,Light
+392,fd0dc040197a6ac42d115243a8cee1dc,Home Design,139,in stock,Light
+393,fd0cabf47b122be0cbaaac86fc34b4a8,Home Design,1200,in stock,Medium
+394,fd0c762860528d119344e1377b574fc5,Sports,317,in stock,Light
+395,fd09697dea5aa0de13308b83c6e03f69,Shoes,750,in stock,Light
+396,fd0731561b291a28f6a3a189e86a1107,Bathroom,800,in stock,Light
+397,fd06ee724785658f80f21107c42352a8,Sports,1150,in stock,Medium
+398,fd0065af7f09af4b82a0ca8f3eed1852,Kitchen Products,3000,in stock,Medium
+399,fcffe8b68efdfe24c139e44753dc505e,Musical Instruments,2600,in stock,Medium
+400,fcfe8ebda270478afa5867ec5e46e7be,Toys,385,in stock,Light
+401,fcf8767deaa2d325a3150d5bcb8acbea,Pets,350,out of stock,Light
+402,fcf6d4fd2e97087087d61d228999d662,Art,200,in stock,Light
+403,fcf6ad274391aea29f5d6e5ef9da5050,Accessories,513,in stock,Light
+404,fcf64c72035fc6f17660bae96c933ffb,Art,200,in stock,Light
+405,fcf50ee5ad1f1a48671052487d2b0bff,Clothing,250,in stock,Light
+406,fcf4c9a897ae906e5a467ebf4589dffd,Musical Instruments,987,out of stock,Light
+407,fcf41b0fb1a95c8f66330d698d55a532,Jewelry,250,in stock,Light
+408,fcf39794919367e915d2656291f99564,Clothing,100,in stock,Light
+409,fcf311603fa276d415c006188e7bd070,Art,90,in stock,Light
+410,fcf28afb1353f2f12ea041dd74954226,Books,300,in stock,Light
+411,fcf19b6b1ff4a17bcd6ca9675b58aa6f,Kitchen Products,725,low stock,Light
+412,fcebf00185e30ec68a53482496656b25,Clothing,2300,in stock,Medium
+413,fce976d7954f915c971fb93ac8724681,Jewelry,250,in stock,Light
+414,fce345e86ad30c0a8de7f92f71ecb4cc,Musical Instruments,100,in stock,Light
+415,fce1a7007f115fe2b900a7592ee87c47,Decor,200,in stock,Light
+416,fce15962a64fe4b658917a18983fb266,Makeup,550,in stock,Light
+417,fcdebbb6946ae0ff528fe189ad53de46,Clothing,700,in stock,Light
+418,fcde1899043318107d8f0ae043f69bc3,Sports,400,in stock,Light
+419,fcddf470369a3a13fc7b6146ac3a816e,Musical Instruments,20300,in stock,Heavy
+420,fcdb929c70287379ce31deed3f733d72,Clothing,1625,in stock,Medium
+421,fcda3a9193321b42d5b6177aa4f9e3ed,Makeup,300,in stock,Light
+422,fcd98736b0f93602db185e73afddefc1,Books,850,in stock,Light
+423,fcd525d5a642e0fe40613667da935322,Books,100,in stock,Light
+424,fcd3383d6f4f1c10260d479342c4fd54,Pets,150,in stock,Light
+425,fcd119ff3868ddbb0013932039418ede,Musical Instruments,550,in stock,Light
+426,fcd0a70961c103799897803f4e49c628,Kitchen Products,400,in stock,Light
+427,fccd4d9159e9566d6c8708ffd6af7aa4,Jewelry,333,in stock,Light
+428,fcc54227ff8274a40686b505d5874e8c,Toys,2300,low stock,Medium
+429,fcc27d197f2e7be2b9a8ecedfd1a1730,Accessories,2000,in stock,Medium
+430,fcc22617447eefe483e5e60d6bdf7b22,Sports,1000,low stock,Light
+431,fcbdd87d29fc2d2fe700a7459d43445a,Musical Instruments,300,low stock,Light
+432,fcbb2b8c6eb8c27d15790d9834b253b4,Furniture,350,out of stock,Light
+433,fcbb0fb955e82fdf9afbb3641b5a6ac0,Bathroom,5075,in stock,Heavy
+434,fcb9824e33f82adb4fcac27ef46905b5,Appliances,100,in stock,Light
+435,fcb7e7f24f5e50c7786b39f30d5ae704,Kitchen Products,2200,out of stock,Medium
+436,fcb72602e3e6f59e5fdb5c3a4a3de410,Art,8750,in stock,Heavy
+437,fcb6c42b17e6fe27366fe1fcc98b7032,Appliances,1500,in stock,Medium
+438,fcb61bdd656827a13a98f369eeb9fa3b,Jewelry,1600,in stock,Medium
+439,fcb300f1ac9a1231f70f3d2be2db9af2,Pets,700,in stock,Light
+440,fcb224113ca69bc837459203e6eeea29,Decor,450,in stock,Light
+441,fcb0e3bd6245e82cb0203dca6c126e43,Sports,200,out of stock,Light
+442,fcad6e5643f855de4b616a24e6dd25e4,Toys,15150,out of stock,Heavy
+443,fcaab5d7f656094e49fbe4ee3a506658,Sports,7650,in stock,Heavy
+444,fca62108387e25005784da2f551466a1,Gadgets,14600,in stock,Heavy
+445,fca5d31cf768e5bf8a75483fa7f4674c,Makeup,11400,in stock,Heavy
+446,fca5350a69eb4d8ae4f5884413ebd0e5,Kitchen Products,400,in stock,Light
+447,fca32487845a373fbc6c334ac5bf663c,Accessories,150,in stock,Light
+448,fca2e81c23d935ea664ac286eb86ccf5,Jewelry,200,in stock,Light
+449,fca0ce04818f39ab1d78491218d8aa5a,Shoes,100,in stock,Light
+450,fc9f8ce7c9be6295161b8c8fccb26b6b,Toys,500,in stock,Light
+451,fc9f1b7e877d87c6e78cc32686a73a27,Accessories,1000,in stock,Light
+452,fc9ccf6863eb3c05fbaa46d4382540e7,Sports,400,in stock,Light
+453,fc9af7b3544da8645e6c3148a22026e2,Musical Instruments,5500,low stock,Heavy
+454,fc956e40e1a0ca9889d2e182aa6fddd3,Art,5050,in stock,Heavy
+455,fc94d52bb346616a130e657a8fac829b,Musical Instruments,7100,low stock,Heavy
+456,fc93dd7f733b2e9ed94453e40e4fa677,Appliances,150,in stock,Light
+457,fc935e2845dacecf29f0555465bed91b,Musical Instruments,600,in stock,Light
+458,fc931a514a3e080c336911cccd59145b,Kitchen Products,679,in stock,Light
+459,fc8e852906ed3985a6e1ea67eb1dfdf9,Decor,600,in stock,Light
+460,fc8b21a0fa8ae9622a79bd557b380961,Bathroom,350,in stock,Light
+461,fc8895b553fa05e3c996f020da54ef8a,Art,526,out of stock,Light
+462,fc877e6bbeb95de8809398eca3f2a3fe,Furniture,2600,in stock,Medium
+463,fc86606232e0da421bf450a13068a4b4,Musical Instruments,1300,in stock,Medium
+464,fc8595227785863846b7daa2ae3f2c9b,Home Design,400,out of stock,Light
+465,fc84057c7ba16fe04a3c66cf104e02a6,Clothing,8050,in stock,Heavy
+466,fc83db05de6120d00e02ea0fe6f916af,Kitchen Products,1300,in stock,Medium
+467,fc8379cce9f27ea602b3c16f7eb121b3,Art,473,low stock,Light
+468,fc831da5307b1a3e23ed0259a2b6b2a1,Gadgets,1250,in stock,Medium
+469,fc831501bb322d6de2ffc32037fe0f34,Makeup,350,in stock,Light
+470,fc7f47f5160e876b754ce2b83a02c01c,Home Design,150,in stock,Light
+471,fc7d2de677b4aec44e4c6c900d3f8b79,Kitchen Products,3400,in stock,Medium
+472,fc7c2a5b006ec4b9166c89db4c46bf78,Home Design,2250,in stock,Medium
+473,fc7b2bd9172746b4151710bc2132f6a7,Shoes,300,in stock,Light
+474,fc7a99a9bea1e3544a0712c0649595ec,Home Design,3500,in stock,Medium
+475,fc7138a8f96aee8302e42916bbbbb818,Books,161,in stock,Light
+476,fc6fe2e1150a893d2fa9445851ccc350,Clothing,5800,in stock,Heavy
+477,fc6f75aed00a45312365ba4a37adb3f6,Clothing,250,in stock,Light
+478,fc6d90a253003d53136e1b444beb55dc,Accessories,1400,in stock,Medium
+479,fc6c38ee7759b0a92503910745aa9ef0,Sports,1700,in stock,Medium
+480,fc6ba6bf4b28fdad575e27b56cafe176,Jewelry,1150,in stock,Medium
+481,fc6b299cf83fa76632dd1b0a2c611f33,Pets,500,in stock,Light
+482,fc64f94fa41c3384cce3defbe89db72f,Gadgets,450,in stock,Light
+483,fc623b74602f30f00e2e3ce320b8dafa,Kitchen Products,2400,in stock,Medium
+484,fc5feda8d6c915bdbd6ca84bac05e2eb,Clothing,150,in stock,Light
+485,fc5dd987f12a7b823a76a44aa1ba88f6,Furniture,250,in stock,Light
+486,fc5db2fc460f284583971cf23f3fc75e,Makeup,650,in stock,Light
+487,fc5c33cddd49638580cfe9fec90aa943,Shoes,300,in stock,Light
+488,fc5bf9e50dbfb45e7634bd8c045411c5,Accessories,200,in stock,Light
+489,fc5a20562c99bbc5229b175d0a88ea7a,Decor,6225,in stock,Heavy
+490,fc5888c7df7361d2582b2fd195a827eb,Bathroom,850,in stock,Light
+491,fc56c478c11ca5989e21da62cb19de16,Art,1350,in stock,Medium
+492,fc5428e8e3dbc80bf96f681ed2e95026,Appliances,500,in stock,Light
+493,fc5062f483f32b6e7d6e4a38c402d56c,Furniture,10700,in stock,Heavy
+494,fc5043902812d122c4e80113ff924c1b,Makeup,5500,in stock,Heavy
+495,fc5010afcac79b05b2e4bc8e5912092d,Jewelry,3725,in stock,Medium
+496,fc4e529d4121c3f5ced63c2ad05fb2d2,Kitchen Products,400,in stock,Light
+497,fc4d6bb8b2fba6297e0bd65aaa38624a,Kitchen Products,150,in stock,Light
+498,fc49395ccfb1f65ab0d1352684772112,Gadgets,500,low stock,Light
+499,fc470dc1924bf42ce34d83187505dbe4,Toys,150,in stock,Light
+500,fc44aa56f6950438772a08ec23552fd9,Clothing,750,out of stock,Light
+501,fc444943f2e00f21072361c8dcc0e0d2,Sports,350,in stock,Light
+502,fc43d4931ce7b45c01dcf5289927dc01,Makeup,803,in stock,Light
+503,fc4179aaee80873ac630e593d669256d,Shoes,400,in stock,Light
+504,fc41206e8fcdfebc2418ab3a038053af,Sports,3550,low stock,Medium
+505,fc40fe8ca610260f036ecf18dd8d3b24,Musical Instruments,5543,in stock,Heavy
+506,fc3e972df7e263b301e2bee77ac2a6d3,Pets,1600,in stock,Medium
+507,fc3d0f0efacfaae58292fed1ab69fd47,Appliances,450,in stock,Light
+508,fc37e09bb4dadd1eef5e92e954b1c72e,Clothing,500,in stock,Light
+509,fc35f167625d74f06ad5e5e643172cb9,Art,200,in stock,Light
+510,fc2edee55f4118969f4dc49f7a717605,Books,500,low stock,Light
+511,fc2d2cbc50b7d69ce961df503cb25e6b,Sports,18500,in stock,Heavy
+512,fc2d17e60bdd3349a25f3ca6a802a91e,Clothing,500,out of stock,Light
+513,fc2a6f1929e34e5d997d26683b6c0bd9,Kitchen Products,600,in stock,Light
+514,fc2a10fccd980a626042e02b0948269d,Bathroom,450,in stock,Light
+515,fc276546b539ea9ad62827c2a5e2ae42,Bathroom,550,low stock,Light
+516,fc2351bcf24c714e5d21b44ad41198b7,Appliances,6850,in stock,Heavy
+517,fc22eb7bba78fd67da33c9acf162d592,Pets,3500,in stock,Medium
+518,fc2053a22dde0b067898ea436a86ec6e,Appliances,1900,in stock,Medium
+519,fc1d8637c0268af3db482c14b7ef8e75,Makeup,1700,in stock,Medium
+520,fc17dfdde3d4bd5a186b417704775d06,Appliances,13450,in stock,Heavy
+521,fc158c6d4f95cc9d4c33c5b11b081779,Pets,450,in stock,Light
+522,fc154625377a75559098d1b52e40b78a,Sports,1905,in stock,Medium
+523,fc1449f3ffc59fd2eb9640505aea0581,Accessories,1400,in stock,Medium
+524,fc13bac52be6640d9a77f54894e2c0e6,Furniture,550,in stock,Light
+525,fc0c0ec18acc7de4c5d1eb3d4c274e72,Toys,426,in stock,Light
+526,fc04e723b53a7b372e081da67cf6aca2,Toys,1500,out of stock,Medium
+527,fc0234a0ca2e8c140d56247254f8e618,Musical Instruments,1000,in stock,Light
+528,fbf7215badcb7ebd5b322b71a0733fb8,Musical Instruments,5534,in stock,Heavy
+529,fbf19c12a50f1467bcae50364475ca26,Makeup,917,in stock,Light
+530,fbed7bca664c2d2d9a1412223f7c8aeb,Sports,600,in stock,Light
+531,fbecfbe44e34c5291e5499870cd5db2e,Art,5000,in stock,Medium
+532,fbec390384fbb8d53d97c29a5bbb26ae,Musical Instruments,1640,in stock,Medium
+533,fbe6ed76eed46e62a6e2dba72745725d,Shoes,400,in stock,Light
+534,fbe6d5795a52b760e25a4e9677a2e217,Books,16000,in stock,Heavy
+535,fbe581b34ee461c334f769e1422eb1de,Books,1650,in stock,Medium
+536,fbd925d80d07790dc9f61463efb3c64c,Pets,150,in stock,Light
+537,fbd4031ddbc3d02b95834b62769d3ad0,Makeup,10050,in stock,Heavy
+538,fbd2a9aa1f115244e2ce115ad8eacfca,Shoes,1200,in stock,Medium
+539,fbce52c4e7a3898c2ade51f177f77012,Bathroom,207,low stock,Light
+540,fbce4c4cb307679d89a3bf3d3bb353b9,Makeup,6550,low stock,Heavy
+541,fbcd9b07bda0301e7e776fc1ab26fdfe,Accessories,2200,in stock,Medium
+542,fbcd62530875b193a5e21728242d77a4,Musical Instruments,100,out of stock,Light
+543,fbc4b7ed41d3f3152bbe55826d9fec73,Home Design,530,in stock,Light
+544,fbc27ebd87bc38f09e41f1d062d116a7,Books,2000,in stock,Medium
+545,fbc1488c1a1e72ba175f53ab29a248e8,Gadgets,560,in stock,Light
+546,fbbccb1d65066d96ce4cc9edef2f5a0a,Decor,2500,in stock,Medium
+547,fbb72ae209733219a1a5019715b15472,Kitchen Products,1300,in stock,Medium
+548,fbb63264ad9777810766ae4bed802224,Kitchen Products,200,low stock,Light
+549,fbb4594a7d9aff5d02ae898ee494b935,Gadgets,1250,low stock,Medium
